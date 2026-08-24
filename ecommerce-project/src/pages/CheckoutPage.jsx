@@ -112,13 +112,13 @@ export function CheckoutPage({cart}) {
                               </div>
                             </div>
                           </div>
-                        );
-                      })};
+                        )
+                      })}
 
                     </div>
                   </div>
                 </div>
-              );
+              )
             })}
            
           </div>
